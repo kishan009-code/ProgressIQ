@@ -1,20 +1,52 @@
-Features:
-Version 1:
-login function
-1)will help you calculate your required caloire and protein intake for bulking and cutting.
-2)Maintains workout to perform on a particular day, number of sets and reps.
-3)track pr goals
-4)tracks calorie and protein intake.
-5)tracks monthly and weekly progress.
+# ProgressIQ Features
 
-Version 2:
-version 1+
-1)library of different excercises
-2)insturction to perfrom each excercise
-3)steps tracker
-4)diffrenet foods with calorie and protein per 100 gm 
-5)info about suppliments and equipment used in gym 
+## Version 1 (MVP)
 
-Version 3:
-version 2+
-AI recommendation of  different excercises and food 
+### Authentication
+- User registration and login
+
+### Workout Tracking
+- Create and manage daily workout plans
+- Record exercises, sets, reps, and weights
+- Track personal records (PRs)
+
+### Nutrition Tracking
+- Calculate daily calorie requirements for bulking and cutting
+- Calculate recommended daily protein intake
+- Track daily calorie and protein consumption
+
+### Progress Analytics
+- Monitor weekly progress
+- Monitor monthly progress
+
+---
+
+## Version 2
+
+Includes everything from **Version 1**, plus:
+
+### Exercise Library
+- Browse a library of gym exercises
+- Step-by-step exercise instructions
+- Proper form and technique guidance
+
+### Activity Tracking
+- Daily step tracker
+
+### Food Database
+- Search foods with calories and protein per 100 g
+
+### Fitness Resources
+- Information about common supplements
+- Information about gym equipment
+
+---
+
+## Version 3
+
+Includes everything from **Version 2**, plus:
+
+### AI Features
+- AI-powered workout recommendations
+- AI-powered nutrition recommendations
+- Personalized fitness suggestions based on user progress

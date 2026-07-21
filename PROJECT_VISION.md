@@ -1,20 +1,27 @@
-Name-ProgessIQ
+# ProgressIQ
 
-Tagline
-Track. Analyze. Improve.
+**Tagline:** *Track. Analyze. Improve.*
 
-Problem statement:Many college students,begineers and even intermediate lifters struggle to consistently track their Pr's,nutrtion,progess in gym.They use multiple apps or
-handwritten note ,making it diffcult to monitor identify their weakness and stay consistent with their workouts.
+## Project Vision
 
-Target Audience: Begineer Lifters,Intermediate Lifters,College Students.
+### Problem Statement
 
-Goals:
-1)To track workouts
-2)To track prs
-3) To track nutrition 
-4)Help users make informed workout and nutrition decisions using progress analytics
-5)Analyse weekly and monthly progress.
+Many college students, beginner lifters, and intermediate lifters struggle to consistently track their workouts, personal records (PRs), nutrition, and overall fitness progress. They often rely on multiple apps or handwritten notes, making it difficult to monitor progress, identify weaknesses, and stay consistent with their fitness goals.
 
-Why build it?
-I want to build a real world software product that solves a problem I personally face as a college student and gym ethusiast.This project helps me strength my software egineering
-skills while creating something that can help other students in their fitness journey as well.
+### Target Audience
+
+- Beginner Lifters
+- Intermediate Lifters
+- College Students
+
+### Goals
+
+- Track daily workouts
+- Track personal records (PRs)
+- Track nutrition and calorie intake
+- Help users make informed workout and nutrition decisions through progress analytics
+- Analyze weekly and monthly fitness progress
+
+### Why Build ProgressIQ?
+
+As a college student and fitness enthusiast, I wanted to build a real-world software product that solves a problem I personally experience. ProgressIQ will help users manage their fitness journey in one place while allowing me to strengthen my software engineering skills by building a practical application from scratch.
