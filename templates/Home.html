@@ -5,19 +5,70 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
-   <h1>ProgressIQ</h1>
 
-    <p>Track. Analyze. Improve.</p>
+   <nav>
+    <h2>ProgressIQ</h2>
 
-    <hr>
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Features</a></li>
+        <li><a href="#">Login</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+</nav>
 
-    <h2>Your Personal Gym Progress Tracker</h2>
+   <div class="hero">
 
-    <p>
-        Track workouts, monitor PRs, record nutrition,
-        and analyze your fitness progress—all in one place.
-    </p>
+    <div class="hero-text">
 
-    <button>Get Started</button>
+        <h1>Level Up Your Fitness Journey</h1>
+
+        <p>
+            Track workouts, monitor PRs, calculate nutrition,
+            and analyze your progress—all in one place.
+        </p>
+
+        <button>Get Started</button>
+
+    </div>
+
+    <div class="hero-image">
+
+        <img src="{{ url_for('static', filename='images/fitness-workout-symbol-png.webp') }}" alt="Fitness">
+        
+    </div>
+
+</div>
+    <section class="features">
+
+    <h2>Why Choose ProgressIQ?</h2>
+
+    <div class="feature-container">
+
+        <div class="card">
+            <h3>🏋️ Workout Tracking</h3>
+            <p>Plan and record every workout to stay consistent and improve over time.</p>
+        </div>
+
+        <div class="card">
+            <h3>🍗 Nutrition Tracker</h3>
+            <p>Monitor your calories and protein intake according to your fitness goals.</p>
+        </div>
+
+        <div class="card">
+            <h3>🏆 PR Tracker</h3>
+            <p>Record your personal records and celebrate every milestone.</p>
+        </div>
+
+        <div class="card">
+            <h3>📊 Progress Analytics</h3>
+            <p>Visualize your weekly and monthly progress to stay motivated.</p>
+        </div>
+
+    </div>
+
+</section>
+
 </body>
 </html>
